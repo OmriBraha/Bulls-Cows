@@ -1,34 +1,7 @@
-
-<h1 align="left">Bulls&Cows game</h1>
-
-###
-
-
-<h2 align="left">The game</h2>
-
-###
-**An interface that implements the game Bulls&Cows as follows**:
-- The program will choose a 4 digits number ( without repititions ) and the user will try to guess the chosen number
-
-- For every guess, the program will present the guesses number along with the number of correct hits ( bulls ) and the number of digits that the original number contains, but not in the correct possition ( cows )
-
-- For example: Given the number '1307' and the guess '3201' -> The result will be 1 Bulls & 2 Cows
-
-- The user will keep on guessing untill he will discover the number. In that case, the prgoram will presents the total guesses made by the user
-
-- The input & output both will be presented by a dialog box using JOptionPane, that also will display all of the previous guesses, including the results for every guess
- 
-
-###
-
-<h2 align="left">Tech</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-
-
-</div>
-
-###
+<h1>🐂🐄 Bulls & Cows</h1>
+<p>Are you ready for a fun and challenging number guessing game? 🤔 Look no further, because Bulls & Cows has got you covered! 🎉</p>
+<p>In this game, the program will choose a 4-digit number without any repeating digits, and it is your job to guess the chosen number. 🧐 For each guess, the program will give you feedback in the form of bulls and cows. 🐂 A bull represents a correct digit in the correct position, while a cow represents a correct digit in the incorrect position.</p>
+<p>To play the game, simply enter your guess in the dialog box and click the "Guess" button. 🔍 The program will then display the number of bulls and cows for your guess, as well as all of the previous guesses and their results. Keep guessing until you discover the correct number! 💡</p>
+<p>The input and output will be displayed using <strong>JOptionPane</strong> dialog boxes, and the game is implemented in <strong>Java</strong>. It was developed using the <strong>Eclipse</strong> IDE.</p>
+<p>Can you discover the correct number before running out of guesses? 🤔 Give it a try and find out!</p>
+<p>Good luck and have fun! 🎊</p>
