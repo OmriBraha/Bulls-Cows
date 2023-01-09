@@ -1,5 +1,5 @@
 /*
- * Bull Pgiaa game
+ * Bulls&Cows game ( Bull Pgiaa in Hebrew )
  * 
  * The program will generate a 4 (different) digits number
  * 
