@@ -1,4 +1,7 @@
 <h1> 🐮 Bull & Cows Game 🐄 </h1>
+<p>
+  <img src="https://img.shields.io/badge/language-Java-orange.svg" alt="Java">
+</p>
 <h2> Introduction </h2>
 <p>Welcome to my implementation of the classic game of Bull & Cows, written in Java and using JOptionPane for popups. This program allows the user to play the game by guessing a randomly generated secret number. The game includes an abstract class named Expression which provides the basic functionality of the game.</p>
 
